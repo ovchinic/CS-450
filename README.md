@@ -11,7 +11,7 @@ The purpose of this course was to learn the fundamentals of OpenGL to create 3D 
 Course Website: https://web.engr.oregonstate.edu/~mjb/cs450/<br />
 
 Project 1: Draw Something Cool in 3D!<br />
-&emsp;Project Demo: https://youtu.be/m42sOQpD6NU<br />
+&emsp;*Project Demo: https://youtu.be/m42sOQpD6NU*<br />
 Project 2: Animate a Helicopter<br />
 &emsp;Project Demo: https://youtu.be/wGJgxpcVmqo<br />
 Project 3: Texture Mapping<br />
