@@ -1,10 +1,10 @@
-<p align="center">**CS 450**</p>
+<p align="center">CS 450</p>
 
 <p align="center">Intro to Computer Graphics</p>
 
 <p align="center">Oregon State University</p>
 
-<p align="center">*Fall 2022*</p>
+<p align="center">Fall 2022</p>
 
 The purpose of this course was to learn the fundamentals of OpenGL to create 3D vector renders and animations. Efficiency in code was key to lowering the burden on hardware processing.<br />
 
