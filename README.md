@@ -24,5 +24,5 @@ Project 5: Shaders<br />
 Project 6: Geometric Modeling<br />
 <p style = “margin-left: 40px”>Project Demo: https://youtu.be/lmdskuM3bsQ</p><br />
 Project 7: Final Project<br />
-<p style = “margin-left: 40px”>Project Demo: https://youtu.be/xva_f-sDwlE</p><br />
-<p style = “margin-left: 40px”>Project Code Overview: https://youtu.be/gF7CR0_Lz4Q</p><br />
+<p style = “margin-left: 40px”>Project Demo: https://youtu.be/xva_f-sDwlE</p>
+<p style = “margin-left: 40px”>Project Code Overview: https://youtu.be/gF7CR0_Lz4Q</p>
