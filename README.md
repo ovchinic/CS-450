@@ -13,16 +13,16 @@ Course Website: https://web.engr.oregonstate.edu/~mjb/cs450/<br />
 Project 1: Draw Something Cool in 3D!<br />
 &emsp;Project Demo: https://youtu.be/m42sOQpD6NU<br />
 Project 2: Animate a Helicopter<br />
-Project Demo: https://youtu.be/wGJgxpcVmqo<br />
+&emsp;Project Demo: https://youtu.be/wGJgxpcVmqo<br />
 Project 3: Texture Mapping<br />
-Project Demo: https://youtu.be/o9ayuKtk0Fk<br />
+&emsp;Project Demo: https://youtu.be/o9ayuKtk0Fk<br />
 Project 4: Lighting<br />
-Project Demo: https://youtu.be/BSb_97kXGk4<br />
-Project Code Overview: https://youtu.be/kgxnqR_2wXk<br />
+&emsp;Project Demo: https://youtu.be/BSb_97kXGk4<br />
+&emsp;Project Code Overview: https://youtu.be/kgxnqR_2wXk<br />
 Project 5: Shaders<br />
-Project Demo: https://youtu.be/J1_3Pd8Us1Y<br />
+&emsp;Project Demo: https://youtu.be/J1_3Pd8Us1Y<br />
 Project 6: Geometric Modeling<br />
-Project Demo: https://youtu.be/lmdskuM3bsQ<br />
+&emsp;Project Demo: https://youtu.be/lmdskuM3bsQ<br />
 Project 7: Final Project<br />
-Project Demo: https://youtu.be/xva_f-sDwlE<br />
-Project Code Overview: https://youtu.be/gF7CR0_Lz4Q<br />
+&emsp;Project Demo: https://youtu.be/xva_f-sDwlE<br />
+&emsp;Project Code Overview: https://youtu.be/gF7CR0_Lz4Q<br />
